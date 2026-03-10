@@ -1,16 +1,97 @@
-## Hi there 👋
+# Hello there 👋
 
-<!--
-**xhmkggybzwmz/xhmkggybzwmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 I'm Muzhi Wang
+You can also call me Devin.
 
-Here are some ideas to get you started:
+🎓 Master of Software Engineering Student, Universiti Malaya, Kuala Lumpur, Malaysia   
+🎓 First Class Honours Bachelor of Engineering (Computer Engineering), UNSW, Sydney, Australia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile!
+
+---
+
+## 🚀 About Me
+
+I am a software engineering student with a strong interest in **Artificial Intelligence of Things (AIoT), embedded systems, and intelligent computing systems**.  
+
+During my undergraduate studies at the **University of New South Wales (UNSW)**, I worked on several projects involving **hardware acceleration, FPGA development, and IoT systems**. These experiences motivated me to explore how intelligent software systems interact with hardware and the physical world.
+
+In addition to hardware-related work, I also have experience in **software development**, including building web-based platforms. I have worked with **frontend frameworks, backend services, and databases**, which gave me practical experience in **full-stack development and system design**.
+
+I enjoy building systems that combine **software, hardware, and data-driven intelligence**.
+
+---
+
+## 🔬 Interests
+
+- Artificial Intelligence of Things (AIoT)
+- Embedded Systems & FPGA Development
+- Machine Learning Applications
+- IoT Systems & Smart Devices
+- Software Engineering and System Design
+
+---
+
+## 🎯 Expectations for this Course (FRAMEWORK-BASED SOFTWARE DESIGN AND DEVELOPMENT)
+
+Through this course, I hope to:
+
+- Improve my **software engineering and collaborative development skills**
+- Gain deeper understanding of **modern development frameworks and tools**
+- Learn best practices in **software design, testing, and deployment**
+- Work on interesting projects with my classmates
+
+---
+
+## 💡 Fun Fact
+
+⚡ I enjoy building systems that combine **hardware and software**, especially projects involving **FPGA, IoT devices, and intelligent systems**.
+
+---
+
+## 🖼️ About Me (Avatar)
+
+![avatar](https://github.com/user-attachments/assets/63cffdcf-7064-4cf0-b079-d5a119af1cc2)
+
+I like photography and travelling!
+
+---
+
+## 🛠️ Languages
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+![VHDL](https://img.shields.io/badge/VHDL-purple?style=for-the-badge)
+![PLpgSQL](https://img.shields.io/badge/PLpgSQL-blue?style=for-the-badge&logo=postgresql)
+
+---
+
+## ⚙️ Frameworks & Tools
+
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![Vivado](https://img.shields.io/badge/Vivado-EDA-blue?style=for-the-badge)
+![EDA Tools](https://img.shields.io/badge/EDA%20Tools-Hardware%20Design-purple?style=for-the-badge)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-Game%20Engine-black?style=for-the-badge&logo=unrealengine)
+
+---
+
+## 🧠 Technologies I Have Used
+
+- FPGA Development (VHDL / HLS tool)
+- IoT Systems
+- FPGA-based Hardware Acceleration
+- Machine Learning Models
+- Full-stack Web Development
+
+---
+
+## 📫 How to Reach Me
+
+📧 Email: muzhi.wang15@gmail.com  
+
+💻 GitHub:https://github.com/xhmkggybzwmz
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
