@@ -3,10 +3,10 @@
 ## 👨‍💻 I'm Muzhi Wang
 You can also call me Devin.
 
-🎓 Master of Software Engineering Student, Universiti Malaya, Kuala Lumpur, Malaysia   
+🎓 Master of Software Engineering Student, Universiti Malaya, Kuala Lumpur, Malaysia  
 🎓 First Class Honours Bachelor of Engineering (Computer Engineering), UNSW, Sydney, Australia
 
-Welcome to my GitHub profile!
+***Welcome to my GitHub profile!***
 
 ---
 
