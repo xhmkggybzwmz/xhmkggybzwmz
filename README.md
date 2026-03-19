@@ -32,17 +32,6 @@ I enjoy building systems that combine **software, hardware, and data-driven inte
 
 ---
 
-## 🎯 Expectations for this Course (FRAMEWORK-BASED SOFTWARE DESIGN AND DEVELOPMENT)
-
-Through this course, I hope to:
-
-- Improve my **software engineering and collaborative development skills**
-- Gain deeper understanding of **modern development frameworks and tools**
-- Learn best practices in **software design, testing, and deployment**
-- Work on interesting projects with my classmates
-
----
-
 ## 💡 Fun Fact
 
 ⚡ I enjoy building systems that combine **hardware and software**, especially projects involving **FPGA, IoT devices, and intelligent systems**.
