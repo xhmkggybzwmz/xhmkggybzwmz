@@ -38,10 +38,6 @@ I enjoy building systems that combine **software, hardware, and data-driven inte
 
 ---
 
-## 🖼️ About Me (Avatar)
-
-![avatar](https://github.com/user-attachments/assets/63cffdcf-7064-4cf0-b079-d5a119af1cc2)
-
 I like photography and travelling!
 
 ---
